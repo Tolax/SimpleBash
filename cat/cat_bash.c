@@ -1,4 +1,4 @@
-#include "s21_cat.h"
+#include "cat_bash.h"
 
 int main(int argc, char *argv[]) {
   struct Options Options = {0};
